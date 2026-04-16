@@ -20,7 +20,7 @@ export default function DashboardLayout({
 
       <div className="flex">
 
-        {/* Sidebar now INSIDE provider */}
+       
 
         <Sidebar />
 
