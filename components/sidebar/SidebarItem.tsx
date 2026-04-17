@@ -31,7 +31,7 @@ export default function SidebarItem({
       pathname.includes("/inventory")
     );
 
-  // 🔽 Dropdown Menu
+  //  Dropdown 
 
   if (children) {
 
@@ -129,7 +129,7 @@ export default function SidebarItem({
 
   }
 
-  // 🔹 Normal Item
+  //  Normal Item
 
   return (
 
